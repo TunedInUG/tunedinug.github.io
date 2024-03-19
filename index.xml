@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2024 | Built with Hugo and GitHub Pages</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 08:51:25 +0600</lastBuildDate>
     <atom:link href="https://tunedinlive.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gerry Hampson</title>
+      <link>https://tunedinlive.uk/speaker/gerry-hampson/</link>
+      <pubDate>Tue, 19 Mar 2024 08:51:25 +0600</pubDate>
+      <guid>https://tunedinlive.uk/speaker/gerry-hampson/</guid>
+      <description>Gerry is a Senior Consultant for Ergo Group based in Dublin, Ireland and is a specialist in Microsoft consultancy and implementations, particularly in the area of enterprise client management.</description>
+    </item>
     <item>
       <title>5 Creative Ideas for Conference Sessions</title>
       <link>https://tunedinlive.uk/blog/post.1/</link>
@@ -36,13 +43,6 @@
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       <guid>https://tunedinlive.uk/blog/post.4/</guid>
       <description>At first glance, the 31-year-old, with her Instagram following of 300 000, may give the impression of being just another modest influencer, posing in brands like Dulce by Safiya, Culture Hijab, and Hayah Collection.</description>
-    </item>
-    <item>
-      <title>Paul Winstanley</title>
-      <link>https://tunedinlive.uk/speaker/paul-winstanley/</link>
-      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/paul-winstanley/</guid>
-      <description>Paul is a well-known Microsoft MVP.</description>
     </item>
     <item>
       <title>John Doe</title>
