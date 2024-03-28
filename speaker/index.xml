@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2024 | Built with Hugo and GitHub Pages</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 08:51:25 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 08:51:25 +0600</lastBuildDate>
     <atom:link href="https://tunedinlive.uk/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niall Brady</title>
+      <link>https://tunedinlive.uk/speaker/niall-brady/</link>
+      <pubDate>Thu, 28 Mar 2024 08:51:25 +0600</pubDate>
+      <guid>https://tunedinlive.uk/speaker/niall-brady/</guid>
+      <description>Niall Brady is a blogger and an occasional speaker who focuses on step-by-step guides and videos for Windows 365, Intune, ConfigMgr, and more.</description>
+    </item>
     <item>
       <title>Dan Gough</title>
       <link>https://tunedinlive.uk/speaker/dan-gough/</link>
