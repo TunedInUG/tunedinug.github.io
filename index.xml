@@ -4,11 +4,18 @@
     <title>TunedIn | Community Meetups</title>
     <link>https://tunedinlive.uk/</link>
     <description>Recent content on TunedIn | Community Meetups</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2024 | Built with Hugo and GitHub Pages</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 12:51:25 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 08:51:25 +0600</lastBuildDate>
     <atom:link href="https://tunedinlive.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steve Beaumont</title>
+      <link>https://tunedinlive.uk/speaker/steve-beaumont/</link>
+      <pubDate>Thu, 25 Apr 2024 08:51:25 +0600</pubDate>
+      <guid>https://tunedinlive.uk/speaker/steve-beaumont/</guid>
+      <description>Meet Steve Beaumont, the tech wizard who makes even the most complicated technology seem simple.</description>
+    </item>
     <item>
       <title>Paul Winstanley</title>
       <link>https://tunedinlive.uk/speaker/paul-winstanley/</link>
