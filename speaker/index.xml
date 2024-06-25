@@ -7,63 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2024 | Built with Hugo and GitHub Pages</copyright>
-    <lastBuildDate>Tue, 14 May 2024 08:51:25 +0600</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://tunedinlive.uk/speaker/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Neil Johnson</title>
-      <link>https://tunedinlive.uk/speaker/neil-johnson/</link>
-      <pubDate>Tue, 14 May 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/neil-johnson/</guid>
-      <description>Neil Johnson&amp;rsquo;s career in enterprise IT began in 1996, starting with Netware (CNE) and then Windows NT (MCSE) and Solaris.</description>
-    </item>
-    <item>
-      <title>David Brook</title>
-      <link>https://tunedinlive.uk/speaker/david-brook/</link>
-      <pubDate>Tue, 07 May 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/david-brook/</guid>
-      <description>David, a distinguished Microsoft MVP in the Security category, brings a wealth of expertise in Microsoft Intune and Device Management capabilities.</description>
-    </item>
-    <item>
-      <title>Ben Whitmore</title>
-      <link>https://tunedinlive.uk/speaker/ben-whitmore/</link>
-      <pubDate>Thu, 25 Apr 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/ben-whitmore/</guid>
-      <description>Ben Whitmore is a System Architect @ Patch My PC and an Enterprise Mobility MVP.</description>
-    </item>
-    <item>
-      <title>Steve Beaumont</title>
-      <link>https://tunedinlive.uk/speaker/steve-beaumont/</link>
-      <pubDate>Thu, 25 Apr 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/steve-beaumont/</guid>
-      <description>Meet Steve Beaumont, the tech wizard who makes even the most complicated technology seem simple.</description>
-    </item>
-    <item>
-      <title>Paul Winstanley</title>
-      <link>https://tunedinlive.uk/speaker/paul-winstanley/</link>
-      <pubDate>Thu, 11 Apr 2024 12:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/paul-winstanley/</guid>
-      <description>Paul Winstanley is a seven-times Microsoft Intune MVP who has 30 years of IT experience.</description>
-    </item>
-    <item>
-      <title>Niall Brady</title>
-      <link>https://tunedinlive.uk/speaker/niall-brady/</link>
-      <pubDate>Thu, 28 Mar 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/niall-brady/</guid>
-      <description>Niall Brady is a blogger and an occasional speaker who focuses on step-by-step guides and videos for Windows 365, Intune, ConfigMgr, and more.</description>
-    </item>
-    <item>
-      <title>Dan Gough</title>
-      <link>https://tunedinlive.uk/speaker/dan-gough/</link>
-      <pubDate>Tue, 19 Mar 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/dan-gough/</guid>
-      <description>Dan is a veteran application packager and former Microsoft MVP, battle-hardened from the trenches of deploying applications for a diverse range of clients.</description>
-    </item>
-    <item>
-      <title>Gerry Hampson</title>
-      <link>https://tunedinlive.uk/speaker/gerry-hampson/</link>
-      <pubDate>Tue, 19 Mar 2024 08:51:25 +0600</pubDate>
-      <guid>https://tunedinlive.uk/speaker/gerry-hampson/</guid>
-      <description>Gerry is a Senior Consultant for Ergo Group based in Dublin, Ireland and is a specialist in Microsoft consultancy and implementations, particularly in the area of enterprise client management.</description>
-    </item>
   </channel>
 </rss>
